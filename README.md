@@ -135,16 +135,18 @@ npm test
 Add your project screenshots here:
 
 ### 🏠 Home Page  
-![Home Page](<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/761d47af-cc8d-45aa-8a6e-bb5d5ff7bbdc" />
-)
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/ac3ed68e-3d43-41ff-bb3d-2c7e1252d5a7" />
+
 
 ### 📊 Admin Dashboard  
-![Dashboard](./snapshots/dashboard.png)
+<img width="1915" height="951" alt="image" src="https://github.com/user-attachments/assets/e36079b0-a97f-4e65-ab24-4204e5be8307" />
 
-### 📝 Review Page  
-![Review Page](./snapshots/review.png)
 
-*(Make a `snapshots/` folder and upload images inside it.)*
+### 📝User DashBoard
+<img width="1915" height="938" alt="image" src="https://github.com/user-attachments/assets/d007d9b0-2392-42b7-a3c8-414df4b08ecb" />
+
+
+
 
 ---
 
